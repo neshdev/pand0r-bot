@@ -9,6 +9,6 @@
 * Change mouse speed to 802.1231231231231231 dpi
 
 
-## v0.3.1 (April 23, 2025)
+## v0.3.0 (April 15, 2025)
 
 * Inital steps for 1 1 1
