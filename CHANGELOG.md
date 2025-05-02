@@ -7,7 +7,7 @@
 * TvZ
     * Increased display gamma from 2.2 to 2.33 for improved Lurker detection when out of scanner energy.
 * TvP
-    * New optional Marine pathfinding subsystem to exploit [newfound Dragoon autotargeting AI deficiency](https://www.twitch.tv/neshdev/clip/SpotlessWanderingPotSSSsss-387-Jt0nOcgqq5re). Enable by passing `--tvp_marine_dragoon_experiment` CLI fla .
+    * New optional Marine pathfinding subsystem to exploit [newfound Dragoon autotargeting AI deficiency](https://www.twitch.tv/neshdev/clip/SpotlessWanderingPotSSSsss-387-Jt0nOcgqq5re). Enable by passing `--tvp_marine_dragoon_experiment` CLI flag.
 * TvT
     * Optimized electrolyte formula in water bottle for prolonged TvT endurance:
         * Increased sodium citrate concentration by 12.3% to reduce late-game decision fatigue during 40-minute tank stare-offs.
