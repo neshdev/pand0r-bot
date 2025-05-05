@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.3.31 (May 4, 2025)
+
+* TvZ
+    * 2 Rax Academy:
+        * Decreased SCV count, moved move out time to 4:45 (up from 4:55-5:00)
+        * Move out composition is now six marines, one medic, one firebat while reinforcing two additional firebats as soon as the strikeforce moves out
+
 ## v0.3.3 (May 2, 2025)
 
 * General
