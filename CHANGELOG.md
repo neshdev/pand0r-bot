@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.3.4 (May 9, 2025)
+
+* TvZ
+    * Added 8 rax in base variation:
+        * 8 rax in base, normal 11 rax scv scout timing
+        * Aims to attack zerg with four marines and three scvs around 3:30
+        * In cross position scenario, zerg should have no idea this is happening until pand0r bot shows up at zerg natural
+
 ## v0.3.31 (May 4, 2025)
 
 * TvZ
